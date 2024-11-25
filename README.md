@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-⚡ Hi, my name is Moises Ferreira. I'm always looking to learn more. Currently, I am looking for opportunities in the area of development or data management. I am ready to face new challenges and contribute with my skills and passion for technology, I have knowledge with C# / PHP / JS / NodeJS / Python and can adapt to all back-end programming languages, depending on the company's needs.<br><br>✨ Oi, meu nome é Moises Ferreira. Estou sempre procurando aprender mais. Atualmente, procuro oportunidades na área de desenvolvimento ou gestão de dados. Estou pronto para enfrentar novos desafios e contribuir com minhas habilidades e paixão por tecnologia, possuo conhecimento com C# / PHP / JS / NodeJS / Python e posso me adaptar com todas as linguagens de programação back-end, dependendo da necessidade da empresa.
+⚡ Hi, my name is Moises Ferreira. I'm always looking to learn more. Currently, I am looking for opportunities in the area of development or data management. I am ready to face new challenges and contribute with my skills and passion for technology, I have knowledge with C# / PHP / JS / NodeJS / Python and others, i can adapt to all back-end programming languages, depending on the company's needs.<br><br>✨ Oi, meu nome é Moises Ferreira. Estou sempre procurando aprender mais. Atualmente, procuro oportunidades na área de desenvolvimento ou gestão de dados. Estou pronto para enfrentar novos desafios e contribuir com minhas habilidades e paixão por tecnologia, possuo conhecimento com C# / PHP / JS / NodeJS / Python e outras, além que posso me adaptar com todas as linguagens de programação back-end, dependendo da necessidade da empresa.
 
 
 ## 🌐 How to find me:
