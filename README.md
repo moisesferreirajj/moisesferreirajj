@@ -15,10 +15,10 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px;">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesferreirajj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=moisesferreirajj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=moisesferreirajj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesferreirajj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </div>
 </div>
 
