@@ -20,8 +20,5 @@
     alt="Github Stats" style="width: 450px; height: 195px; margin-left: 10px;">
 </div>
 
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </div>
